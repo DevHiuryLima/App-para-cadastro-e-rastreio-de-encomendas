@@ -1,0 +1,2 @@
+# App-para-cadastro-e-rastreio-de-encomendas
+ Este projeto foi feito durante o curso de React Native do canal 'Webdesign em Foco'. Os objetivos do curso são que ao fim das aulas o aluno consiga desenvolver um app totalmente personalizado e do zero utilizando apenas Javascript (React Native). Isso, sem depender de sites externos ou de nenhum plugin extra. O projeto fez uso de QRCode, Push Notifications, Login, Banco de Dados e várias outras ferramentas.
